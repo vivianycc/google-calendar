@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd537b9d.css",
-    "main.js": "/static/js/main.271cabce.js",
-    "static/js/787.65293a6f.chunk.js": "/static/js/787.65293a6f.chunk.js",
-    "index.html": "/index.html",
-    "static/media/plus.svg": "/static/media/plus.8f3ab9f72337618f2823670542a3a8e4.svg",
-    "main.dd537b9d.css.map": "/static/css/main.dd537b9d.css.map",
-    "main.271cabce.js.map": "/static/js/main.271cabce.js.map",
-    "787.65293a6f.chunk.js.map": "/static/js/787.65293a6f.chunk.js.map"
+    "main.css": "/google-calendar/static/css/main.dd537b9d.css",
+    "main.js": "/google-calendar/static/js/main.c2ee5919.js",
+    "static/js/787.65293a6f.chunk.js": "/google-calendar/static/js/787.65293a6f.chunk.js",
+    "index.html": "/google-calendar/index.html",
+    "static/media/plus.svg": "/google-calendar/static/media/plus.8f3ab9f72337618f2823670542a3a8e4.svg",
+    "main.dd537b9d.css.map": "/google-calendar/static/css/main.dd537b9d.css.map",
+    "main.c2ee5919.js.map": "/google-calendar/static/js/main.c2ee5919.js.map",
+    "787.65293a6f.chunk.js.map": "/google-calendar/static/js/787.65293a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd537b9d.css",
-    "static/js/main.271cabce.js"
+    "static/js/main.c2ee5919.js"
   ]
 }
